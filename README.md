@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**y9nhjy/y9nhjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I?
+- 🔭 I’m a **CTFer** studying in SCNU
+- 🌱 I major in **Cyberspace Security**
+- 🐕 How to reach me:[y9nhjy]()
+- 💛 Hobby:**Sleep, Sleep, and Sleep** 🤤
+
+<img src="https://github.com/y9nhjy/y9nhjy/smile.jpg" width="400" height="250">
+
+## My Blogs
+😀 None at present
