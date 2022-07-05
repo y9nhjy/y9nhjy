@@ -1,6 +1,6 @@
 # Hi there 👋
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=y9nhjy.y9nhjy-badge&left_color=blue&right_color=yellow&left_text=Hello%20Visitors)![](https://komarev.com/ghpvc/?username=y9nhjy&label=PROFILE+VIEWS&color=yellow)
 
 ## Who am I?
 - 🔭 I’m a **CTFer** studying in SCNU
