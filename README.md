@@ -8,7 +8,7 @@
 - 🐕 How to reach me:[y9nhjy]()
 - 💛 Hobby:**Sleep, Sleep, and Sleep** 🤤
 
-<img src="https://github.com/y9nhjy/y9nhjy/smile.jpg" width="400" height="250">
+<img src="https://github.com/y9nhjy/y9nhjy/blob/main/smile.jpg" width="251" height="251">
 
 ## My Blogs
 😀 None at present
